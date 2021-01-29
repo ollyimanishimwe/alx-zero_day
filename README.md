@@ -1,2 +1,2 @@
-# alx-zero_day
-# alx-system_engineering-devops
+ **This file is mandatory in all ALX School projects**
+ ### Updated ReadMe
